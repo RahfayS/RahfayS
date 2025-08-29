@@ -41,9 +41,4 @@
 
 ---
 
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/rahfay/rahfay/blob/output/github-contribution-grid-snake.svg)
-
-
 ⭐️ From [Rahfay](https://github.com/rahfay)  
