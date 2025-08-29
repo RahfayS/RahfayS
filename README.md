@@ -25,7 +25,7 @@
 
 ## 🌐 Connect with Me
 - 📫 Reach me at: **saberirahfay@gmail.com**  
-- 💼 [LinkedIn](!https://www.linkedin.com/in/rahfay-saberi-7b1b75339/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahfay-saberi-7b1b75339/)  
 - 🎨 [Portfolio Website](#) (coming soon!)
 
 ---
